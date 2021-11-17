@@ -3,9 +3,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors: {
-      gold: "#CF7500",
-      grey: "#2B2B28",
-      lightGrey: "#434343",
+      gold: "#B85252",
+      grey: "#B85252",
+      lightGrey: "#FEF9EF",
       black: "#121013",
       pink: "#EB596E",
       white: "#FFFFFF",

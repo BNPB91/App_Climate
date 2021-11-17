@@ -6,7 +6,7 @@ const CityForm = ({
 	cityName,
 }) => {
 	return (
-		<div className='m-auto text-center mt-10'>
+		<div className='m-auto text-center mt-10 '>
 			<form
 				action=''
 				onSubmit={(e) => handleDataApi(e)}>
@@ -18,7 +18,7 @@ const CityForm = ({
 						handleCityName(target)
 					}
 				/>
-				<button className='p-2 ml-2 bg-black text-white hover:bg-gold hover:text-black rounded-lg'>
+				<button className='p-2 ml-2 bg-black text-white hover:bg-gold hover:text-white rounded-lg'>
 					Search
 				</button>
 			</form>

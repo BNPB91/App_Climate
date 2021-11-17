@@ -6,8 +6,6 @@ import NavBar from "./components/NavBar/NavBar";
 import AllCityInfo from "./views/AllCityInfo/AllCityInfo";
 
 
-
-
 function App() {
   return (
     <div className="App">

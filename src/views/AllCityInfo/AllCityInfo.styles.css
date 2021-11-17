@@ -5,10 +5,13 @@
 	position: absolute;
 	margin-left: 10%;
 	margin-top: 15px;
+	border-radius:10%;
+	border: 1px solid #f3f3f3
 }
 
 .allCity-container {
-	background-color: rgba(0, 0, 0, 0.3);
+	background-color: rgba(145, 135, 135, 0.4);
+	border-radius: 5%;
 }
 
 .weather-container {
@@ -25,7 +28,7 @@
 }
 
 .weather-container img {
-	max-width: 45%;
+	max-width: 60%;
 	background-color: transparent;
 }
 
@@ -40,3 +43,9 @@
 	background-color: transparent;
 	margin-top: 60px;
 }
+
+h1 {
+	color: rgb(89, 213, 190);
+}
+
+

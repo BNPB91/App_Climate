@@ -38,7 +38,7 @@ const AllCityInfo = () => {
 					className='weather-img-container'
 					style={{
 						backgroundImage:
-							"url(https://www.uniradioserver.com/media/news_thumbs/201803/20180310111346_61.jpeg)",
+							"url(https://i.imgur.com/uZlhCjr.jpg)",
 						backgroundRepeat: "no repeat",
 						backgroundSize: "cover",
 					}}></div>
@@ -86,7 +86,7 @@ const AllCityInfo = () => {
 					className='weather-img-container'
 					style={{
 						backgroundImage:
-							"url(https://image.shutterstock.com/image-photo/winter-background-snow-frost-free-260nw-1166024464.jpg)",
+							"url(https://i.imgur.com/uZlhCjr.jpg)",
 						backgroundRepeat: "no repeat",
 						backgroundSize: "cover",
 					}}></div>
@@ -98,7 +98,7 @@ const AllCityInfo = () => {
 					className='weather-img-container'
 					style={{
 						backgroundImage:
-							"url(https://image.shutterstock.com/image-photo/winter-background-snow-frost-free-260nw-1166024464.jpg)",
+							"url(https://i.imgur.com/uZlhCjr.jpg)",
 						backgroundRepeat: "no repeat",
 						backgroundSize: "cover",
 					}}></div>
@@ -110,7 +110,7 @@ const AllCityInfo = () => {
 					className='weather-img-container'
 					style={{
 						backgroundImage:
-							"url(https://services.meteored.com/img/article/destellos-azules-hallazgo-en-las-nubes-288651-2_1024.jpg)",
+							"url(https://i.imgur.com/uZlhCjr.jpg)",
 						backgroundRepeat: "no repeat",
 						backgroundSize: "cover",
 					}}></div>
@@ -119,7 +119,7 @@ const AllCityInfo = () => {
 					className='weather-img-container'
 					style={{
 						backgroundImage:
-							"url(https://upload.wikimedia.org/wikipedia/commons/2/27/Una_ma%C3%B1ana_de_neblina_los_frios_pueden_llegar_hasta_los_10_C%C2%B0.jpg)",
+							"url(https://i.imgur.com/uZlhCjr.jpg)",
 						backgroundRepeat: "no repeat",
 						backgroundSize: "cover",
 					}}></div>
